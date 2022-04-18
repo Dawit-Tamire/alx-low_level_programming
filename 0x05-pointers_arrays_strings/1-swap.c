@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * swap_int - swap variable values
  * @a: pointer 1
  * @b: pointer 2
